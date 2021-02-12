@@ -1,0 +1,14 @@
+{
+  "name": "torrentclient",
+  "version": "1.0.0",
+  "description": "this is a torrent project using networking concepts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "bencode": "^2.0.1"
+  }
+}
